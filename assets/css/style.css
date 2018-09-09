@@ -1,0 +1,14 @@
+/* p {
+    border: 1px;
+    border-style: solid;
+    border-bottom-color: black;
+} */
+
+img {
+    width: 75px;
+    height: 75px;
+}
+
+#main-area {
+    padding-left: 10px;
+}
